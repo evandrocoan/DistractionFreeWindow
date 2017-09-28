@@ -1,3 +1,4 @@
 [
-    { "keys": ["super+f11"], "command": "distraction_free_window" }
+    { "keys": ["ctrl+f11"], "command": "distraction_free_window" },
+    { "keys": ["super+f11"], "command": "distraction_free_window" },
 ]
