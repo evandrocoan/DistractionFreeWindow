@@ -30,7 +30,7 @@
 	"dfw_hide_fold_buttons": true,
 
 //	hide gutter in DistractionFreeWindow mode
-	"dfw_hide_gutter": true,
+	"dfw_hide_gutter": false,
 
 //	draw code in window centered in DistractionFreeWindow,
 //	requires dfw_wrap_width being set
